@@ -2,18 +2,18 @@
 
 ### Novice
 - Swift Sneak (doubles the sneak speed for 30 seconds)
-- Minor Corrosion (armor rating minus 70 for 30 seconds)
+- Minor Corrosion (target's armor rating minus 70 for 30 seconds)
 ### Apprentice
 - Blink (short distance teleport)
 - Defy Gravity (slower fall and fall damage immunity for 30 seconds)
 ### Adept
-- Corrosion (armor rating minus 150 for 40 seconds)
+- Corrosion (target's armor rating minus 150 for 40 seconds)
 - Fiery Defense (gain 50% fire resistance for 60 seconds)
 ### Expert
 - Armor of Thorns (reflects 75% of the incoming melee damage back to the attacker)
 - Mage's Sacrifice (Convert 150 points of health into magicka. Caster can be killed by this effect.)
 ### Master
-- Greater Corrosion (armor rating minus 500 and massive damage after 15 seconds)
+- Greater Corrosion (target's armor rating minus 500 and massive damage after 15 seconds)
 
 ## Illusion
 
