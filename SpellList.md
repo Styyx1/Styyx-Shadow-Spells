@@ -9,11 +9,15 @@
 ### Adept
 - Corrosion (target's armor rating minus 150 for 40 seconds)
 - Fiery Defense (gain 50% fire resistance for 60 seconds)
+- Frozen Bullwark (gain 50% frost resistance for 60 seconds)
+- Static Fortress (gain 50% shock resistance for 60 seconds)
+- Plague Shield (gain 50% disease resistance for 60 seconds)
 ### Expert
 - Armor of Thorns (reflects 75% of the incoming melee damage back to the attacker)
-- Mage's Sacrifice (Convert 150 points of health into magicka. Caster can be killed by this effect.)
+- Mage's Sacrifice (Convert 150 points of health into magicka. Caster can be killed by this effect. Lowers max health by 150 and raises max magicka by 150)
 ### Master
-- Greater Corrosion (target's armor rating minus 500 and massive damage after 15 seconds)
+- Greater Corrosion (target's magicarmor rating minus 500 and massive damage after 15 seconds)
+- Elemental Superiority (gain 50% resistance to all elements for 60 seconds)
 
 ## Illusion
 
@@ -51,3 +55,9 @@
 ### Adept
 ### Expert
 ### Master
+
+Credits: 
+- [EnaiSiaion](https://www.nexusmods.com/skyrimspecialedition/users/3959191) for the code of slowfall and some spell layouts
+- [184Gesu](https://www.nexusmods.com/skyrim/users/6758294) for the idea of the fog spells
+- [theannagarcia](https://www.nexusmods.com/skyrimspecialedition/users/15182179) for helping me setup a scripting environment
+- JaySerpa Discord server members for ideas for various spells
